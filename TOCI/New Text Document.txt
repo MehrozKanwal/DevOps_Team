@@ -1,0 +1,6 @@
+Our Team: Scrummer
+Roles:
+Product Owner: Hamna Aijaz
+Scrum Master: Mehroz Kanwal
+Developer: Aleena
+UI/UX Designer: Sadia
